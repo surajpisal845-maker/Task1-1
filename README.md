@@ -1,11 +1,11 @@
-📘 Task1 – Number Sequence Generator
+# Task1 – Number Sequence Generator
 
 This project contains a simple Python program that generates a continuous sequence of natural numbers (like "12345678910...") until the total length reaches the user-given position.
 
 
 ---
 
-🚀 How It Works
+#How It Works
 
 1. The user enters a number n
 
@@ -23,7 +23,7 @@ This project contains a simple Python program that generates a continuous sequen
 
 ---
 
-🧾 Example
+#Example
 
 Input:
 
@@ -35,7 +35,7 @@ Output:
 
 
 ---
-🛠 Code
+#Code
 
 def task1():
     n = int(input("Enter the Position: "))
@@ -52,8 +52,7 @@ print(task1())
 
 
 ---
-
-📌 Usage
+# Usage
 
 Run the script using:
 
@@ -64,14 +63,14 @@ Enter the required position when prompted.
 
 ---
 
-📄 Purpose
+#Purpose
 
 This program is useful for understanding:
 
-String concatenation
+1.String concatenation
 
-Loops
+2.Loops
 
-Basic logic building
+3.Basic logic building
 
-Sequence generation
+4.Sequence generation
