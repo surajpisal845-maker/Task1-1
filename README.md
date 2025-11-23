@@ -76,7 +76,7 @@ This program is useful for understanding:
 4.Sequence generation
 
 
-Task2 – Find the Number at a Given Position
+#Task2 – Find the Number at a Given Position
 
 This program determines which number appears at a specific position in the infinite sequence:
 
